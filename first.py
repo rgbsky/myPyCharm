@@ -9,12 +9,4 @@ print("hello world")
 
 #todo: aabbccdd
 
-print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
+if (1<2): print("good")
